@@ -7,7 +7,6 @@ mess = """======================================================
                         Z3US.
 ======================================================"""
 
-print "mess"
 print "Created by Z3US"
 title = raw_input("title: ")
 heading = raw_input("Hacked by: ")
